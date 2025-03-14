@@ -37,6 +37,7 @@
                         <h2>Pavan - DevOps Aspire</h2>
                     </div>
                     <div class="card-body">
+                       <h2>Pipeline-project</h2>
                         <p>Welcome to my DevOps journey! I am passionate about automation, continuous integration, and deployment. 
                            My goal is to streamline workflows and enhance system reliability with the latest DevOps practices.</p>
                     </div>
