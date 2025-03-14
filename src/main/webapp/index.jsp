@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <style>
         body {
-            background-color: #f8f9fa;
+            background-color: #343a40;
+            color: white;
         }
         .container {
             margin-top: 50px;
@@ -15,6 +16,8 @@
         .card {
             border-radius: 10px;
             box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            background-color: #495057;
+            color: white;
         }
         .header {
             background-color: #007bff;
@@ -34,13 +37,8 @@
                         <h2>Pavan - DevOps Aspire</h2>
                     </div>
                     <div class="card-body">
-                        <h4>Tools & Technologies</h4>
-                        <ul class="list-group">
-                            <li class="list-group-item">Jenkins</li>
-                            <li class="list-group-item">Maven</li>
-                            <li class="list-group-item">Docker</li>
-                            <li class="list-group-item">Kubernetes</li>
-                        </ul>
+                        <p>Welcome to my DevOps journey! I am passionate about automation, continuous integration, and deployment. 
+                           My goal is to streamline workflows and enhance system reliability with the latest DevOps practices.</p>
                     </div>
                 </div>
             </div>
