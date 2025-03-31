@@ -15,14 +15,10 @@
 	</properties>
 
 	<distributionManagement>
-		 <snapshotRepository>
-		    <id>NexusRepo</id>
-		    <url>http://54.147.33.3:8081/repository/practice-snapshot/</url>
-		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://54.147.33.3:8081/repository/practice-release/</url>
+		    <url>http://54.90.178.176:8081/repository/practice-release/</url>
 		</repository>
   	</distributionManagement>
 
