@@ -14,14 +14,6 @@
 
 	</properties>
 
-	<distributionManagement>
-		
-		<repository>
-		    <id>NexusRepo</id>
-		    <url>http://54.90.178.176:8081/repository/practice-release/</url>
-		</repository>
-  	</distributionManagement>
-
     
     <build>
         <plugins>
